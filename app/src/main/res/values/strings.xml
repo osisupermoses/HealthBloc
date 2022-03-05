@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">HealthBloc</string>
+
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+    <string name="txt_new_or_existing_user">New or existing user?</string>
+    <string name="txt_new_user">New user</string>
+    <string name="txt_existing_user">Existing user</string>
+    <string name="btn_continue">Continue</string>
+
+    <string name="txt_topBar">Transparency, accountability and genuinity</string>
+    <string name="txt_logo">HB</string>
+    <string name="txt_intro_note">Hello, register to access logistics for your health supplies</string>
+    <string name="txt_phone_num">Phone Number</string>
+    <string name="txt_phone_num_placeholder">Mobile Number</string>
+    <string name="txt_full_name">Full Name</string>
+    <string name="txt_org_name">Organisation\'s Name</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_password_placeholder">Enter Password</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_email_placeholder">Enter Email</string>
+    <string name="txt_policy_normal">By signing up, you accept our </string>
+    <string name="txt_policy_link"> Terms of use &amp; Privacy Policy</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="txt_please_enter_otp">Please Enter OTP Verification</string>
+    <string name="txt_code_was_sent_to">Code was sent to</string>
+    <string name="txt_edit">edit</string>
+    <string name="txt_code_expires_in">This code will expire in</string>
+    <string name="txt_didnt_receive_otp">Didn\'t receive an OTP?</string>
+    <string name="txt_resend">Resend</string>
+    <string name="txt_confirm_otp">Confirm OTP</string>
+    <string name="txt_otp_confirmed">Your Otp has been confirmed. Complete the few procedure and enjoy Healthbloc service</string>
+    <string name="txt_login_into_your_account">Login into your Account</string>
+<!--    <string name="txt_toast">All fields must be filled!</string>-->
+
+</resources>

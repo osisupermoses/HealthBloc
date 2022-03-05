@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333220883775",
+    "project_id": "healthblocapp",
+    "storage_bucket": "healthblocapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333220883775:android:dbb78026a415cb1921378a",
+        "android_client_info": {
+          "package_name": "com.osisupermoses.healthbloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333220883775-2fn8t9csm6n4q4ro1l5j923ojfpjfhgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.osisupermoses.healthbloc",
+            "certificate_hash": "2b284493b6db9cf48657b8ef4238e1e85b28eda5"
+          }
+        },
+        {
+          "client_id": "333220883775-c460b0e4gu73pqbsactpevil14bv9dte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsf3N4sVApC1hYjX6oliqyQfWD5b8kiqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333220883775-c460b0e4gu73pqbsactpevil14bv9dte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
